@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1502199845 source:g:\codeblocks_myproject\bubblesort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
